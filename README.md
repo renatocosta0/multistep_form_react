@@ -33,16 +33,9 @@ Revise as informações na etapa final e, se estiver satisfeito, submeta o formu
 
 Tecnologias Utilizadas
 - React.js
-- React Router
 - HTML
 - CSS
-Estrutura do Projeto
-src/: Contém os arquivos do código-fonte da aplicação.
-components/: Componentes React reutilizáveis.
-pages/: Páginas da aplicação correspondentes a cada etapa do formulário.
-App.js: Componente principal da aplicação.
-styles.css: Estilos globais da aplicação.
-public/: Contém o arquivo HTML principal e outros assets.
-screenshots/: Capturas de tela do projeto.
+
 Contribuições
+
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
